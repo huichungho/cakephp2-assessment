@@ -4,9 +4,9 @@
 6 Questions [CakePHP, JS, AJAX, MySQL]
 
 ## environment
-PHP 5.6.40-47+ubuntu20.04.1+deb.sury.org+1 (cli)
-MySQL Ver 14.14 Distrib 5.7.28, for Linux (x86_64)
-ubuntu20.04.1+deb.sury.org+1 (cli)
+PHP 5.6.40-47+ubuntu20.04.1+deb.sury.org+1 (cli)  
+MySQL Ver 14.14 Distrib 5.7.28, for Linux (x86_64)  
+ubuntu20.04.1+deb.sury.org+1 (cli)  
 
 ## configure database in /app/config/database.php
 
